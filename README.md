@@ -1,2 +1,4 @@
 # TCCL-DENSEFUSE-INFRARED-AND-WATER-VAPOUR-SATELLITE-IMAGE-FUSION-MODEL-USING-DEEP-LEARNING
-Combine infrared and water vapour satellite images to produce a fused image which is given as the input.  The fused image is used to detect any unauthorized buildings, or illegal constructions upon government properties.  The fused image provides information about the location, estimated cost, areas occupied and the losses.
+Combine infrared and water vapour satellite images to produce a fused image which is given as the input.  
+The fused image is used to detect any unauthorized buildings, or illegal constructions upon government properties.  
+The fused image provides information about the location, estimated cost, areas occupied and the losses.
